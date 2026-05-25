@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Bot",
+  "description": "An AI-powered professional trading app providing real-time market signals, automated portfolio tracking, biometric security, and intelligent automated auto-buy & sell execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
